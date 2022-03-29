@@ -16,5 +16,5 @@ $ git push origin master        # code 보내기 -> [new brance] 뜨면 성공
 #추가 업로드
 $ git add .                     # "."은 전체를 의미. 파일 하나만 하고 싶으면, 파일 이름 적기
 $ git commit -m"first commit"
-$ git STATUS                    # 추가 업로드 되었는지 확인
+$ git status                    # 추가 업로드 되었는지 확인
 $ git push origin master
